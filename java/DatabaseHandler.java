@@ -29,5 +29,6 @@ public class DatabaseHandler throws FileNotFoundException{
         return out;
     }
 
-    File
+    File test = new File("test.txt");
+
 }
