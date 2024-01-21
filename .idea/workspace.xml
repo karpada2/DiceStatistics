@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ab96d3f-0ccb-4524-8680-128b0be80016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DatabaseHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/amounts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/temp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moreAccessible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rolls.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9ab96d3f-0ccb-4524-8680-128b0be80016" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,16 +16,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Users/Gon/programming/java/fun stuffs/GitHubStuffs/DiceStatistics",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/Gon/programming/java/fun stuffs/GitHubStuffs/DiceStatistics&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\Gon\programming\java\fun stuffs\GitHubStuffs\DiceStatistics\src" />
